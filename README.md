@@ -9,6 +9,7 @@
 
 
 ### RESULT
+[Watch the video](https://github.com/user-attachments/assets/03858923-aa2e-4aeb-82cc-3fe6892e14b9)
 https://github.com/curry-dev/stock-app-ios/assets/68735282/821f8685-d090-4f07-a5a3-bbb0ac350b40
 
 
